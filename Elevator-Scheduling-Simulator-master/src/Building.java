@@ -142,4 +142,5 @@ public class Building {
             System.out.println("Usage: java Building <number of floors, at least 2>\n\t\t<number of elevators, at least 1>\n\t\t<building population, at least 1>");
         }
     }
+    reader.close();
 }
